@@ -37,6 +37,6 @@ elif int(myAge) < 12:
 elif int(myAge) > 70:
   print('You are not Mary, granny.')
 else:
-  print('You are not Mary, nor a kid. Shame!')
+  print("I'm coming for you," + myName + "." )
 
 quit()
